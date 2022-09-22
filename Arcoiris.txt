@@ -1,0 +1,10 @@
+Hola Github, esta es mi primera practica en la plataforma
+
+colores del arcoiris:
+
+rojo
+verde
+azul
+morado
+amarillo
+
